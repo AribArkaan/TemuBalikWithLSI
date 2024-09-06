@@ -1,0 +1,1 @@
+This method requires the user to enter a folder path where he will search for a word that will process the steaming and retrieval methods, and the area to search for the word he wants to search for and the word is in which folder, the steaming process in this code is not 100% perfect.
